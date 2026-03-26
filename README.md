@@ -1,1 +1,1 @@
-# SNUHBB.github.io
+# snuhbb.github.io
